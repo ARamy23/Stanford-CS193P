@@ -25,3 +25,9 @@ After Finishing CS193P This is...
 
 ## In Image Gallery
 1. This is the easiest part, almost all the code you need is on Stack Overflow but make sure you don't just copy things and stick them into your code
+
+## In General
+1. Always read the Hints carefully, don't just skimm through it, read it and understand it and try to relate to it
+2. Do the Reading Assignment, even if the topics are relevant to you, You never know what you may have missed on the beginning of your learning of Swift
+3. Stay Positive
+4. Stay Awesome!
